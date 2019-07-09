@@ -1,4 +1,4 @@
-### discord
+### Discord
 ---
 https://discordapp.com/
 
